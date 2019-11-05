@@ -1,0 +1,106 @@
+[
+ {
+  "numeroPedido": 1,
+  "paraDelivery": true,
+  "direccion": "Lima 1111",
+  "nombreCliente": "Javi",
+  "telefonoCliente": "124467968567",
+  "gustoPizza": "Jamón y morrón",
+  "tamanioPizza": "Personal",
+  "conBebida": true,
+  "gustoBebida": "Fanta",
+  "clienteHabitual": true,
+  "empanadas": [
+   "Carne picante",
+   "Carne cortada a cuchillo",
+   "Jamon y muzzarela"
+  ],
+  "fecha": "2019-11-4",
+  "hora": "9:13:24 PM",
+  "totalProductos": 530,
+  "descuento": 3
+ },
+ {
+  "numeroPedido": 2,
+  "paraDelivery": false,
+  "nombreCliente": "Lando",
+  "telefonoCliente": "346346346",
+  "gustoPizza": "Jamón y morrón",
+  "tamanioPizza": "Personal",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fecha": "2019-11-4",
+  "hora": "9:13:56 PM",
+  "totalProductos": 430,
+  "descuento": 0
+ },
+ {
+  "numeroPedido": 3,
+  "paraDelivery": false,
+  "nombreCliente": "Kenyi",
+  "telefonoCliente": "2353453",
+  "gustoPizza": "Muzzarela",
+  "tamanioPizza": "Mediana",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fecha": "2019-11-4",
+  "hora": "9:29:25 PM",
+  "totalProductos": 560,
+  "descuento": 0
+ },
+ {
+  "numeroPedido": 4,
+  "paraDelivery": false,
+  "nombreCliente": "Juli",
+  "telefonoCliente": "234232",
+  "gustoPizza": "Napolitana",
+  "tamanioPizza": "Grande",
+  "conBebida": true,
+  "gustoBebida": "Fanta",
+  "clienteHabitual": true,
+  "empanadas": [
+   "Carne picante",
+   "Carne cortada a cuchillo",
+   "Jamon y muzzarela"
+  ],
+  "fecha": "2019-11-4",
+  "hora": "9:29:47 PM",
+  "totalProductos": 730,
+  "descuento": 8
+ },
+ {
+  "numeroPedido": 5,
+  "paraDelivery": false,
+  "nombreCliente": "Xime",
+  "telefonoCliente": "1345678",
+  "gustoPizza": "Napolitana",
+  "tamanioPizza": "Grande",
+  "conBebida": false,
+  "clienteHabitual": false,
+  "fecha": "2019-11-4",
+  "hora": "9:30:07 PM",
+  "totalProductos": 650,
+  "descuento": 0
+ },
+ {
+  "numeroPedido": 6,
+  "paraDelivery": true,
+  "direccion": "Lima 1111",
+  "nombreCliente": "Horacio",
+  "telefonoCliente": "24234234",
+  "gustoPizza": "Calabresa",
+  "tamanioPizza": "Mediana",
+  "conBebida": true,
+  "gustoBebida": "Mirinda",
+  "clienteHabitual": true,
+  "empanadas": [
+   "Carne picante",
+   "Carne cortada a cuchillo",
+   "Jamon y muzzarela"
+  ],
+  "fecha": "2019-11-4",
+  "hora": "9:30:33 PM",
+  "totalProductos": 660,
+  "descuento": 5
+ }
+]
