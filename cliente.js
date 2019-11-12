@@ -4,6 +4,9 @@ const inquirer = require('inquirer');
 // Require de File System
 const fs = require('fs');
 
+// Require de DATOS BASE
+const DATA = require('./constants');
+
 // Preguntas para el sistema
 const preguntas = [
 	// Pregunta A - ¿La pizza es para delivery?
@@ -63,7 +66,7 @@ const preguntas = [
 		type: 'rawlist',
 		name: 'gustoPizza',
 		message: '¿De qué gusto querés la pizza?',
-		choices: ['Muzzarela', 'Jamón y morrón', 'Calabresa', 'Napolitana'],
+		choices: DATA.GUSTOS_PIZZA,
 		default: 'Muzzarela'
 	},
 	// Pregunta F - Tamaño de la pizza
